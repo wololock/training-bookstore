@@ -8,4 +8,5 @@ Training Book Store application made with [Grails 2.0.4](http://grails.org). It 
 * [QR Code generator](http://grails.org/plugin/qrcode)
 
 @author Szymon Stepniak
+
 @license Apache License 2.0 (http://grails.org/License)
